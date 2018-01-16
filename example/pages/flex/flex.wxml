@@ -1,0 +1,29 @@
+<view class="container">
+  <view class="title">
+    <view class="h1">FLEX</view>
+    <view class="h2">布局</view>
+  </view>
+
+  <view class="t-flex">
+    <view class="t-flex_item">TUI</view>
+  </view>
+  <view class="t-flex">
+    <view class="t-flex_item">TUI</view>
+    <view class="t-flex_item">TUI</view>
+  </view>
+  <view class="t-flex">
+    <view class="t-flex_item">TUI</view>
+    <view class="t-flex_item">TUI</view>
+    <view class="t-flex_item">TUI</view>
+  </view>
+  <view class="t-flex">
+    <view class="t-flex_item">TUI</view>
+    <view class="t-flex_item">TUI</view>
+    <view class="t-flex_item">TUI</view>
+    <view class="t-flex_item">TUI</view>
+  </view>
+  <view class="t-flex-c">
+    <view class="t-flex_item">TUI</view>
+    <view class="t-flex_item">TUI</view>
+  </view>
+</view>

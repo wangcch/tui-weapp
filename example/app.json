@@ -1,6 +1,9 @@
 {
   "pages":[
-    "pages/index/index"
+    "pages/index/index",
+    "pages/icon/icon",
+    "pages/flex/flex",
+    "pages/cell/cell"
   ],
   "window":{
     "backgroundTextStyle":"light",

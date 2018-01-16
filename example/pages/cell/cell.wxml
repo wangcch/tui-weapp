@@ -1,0 +1,6 @@
+<view class="container">
+  <view class="title">
+    <view class="h1">CELL</view>
+    <view class="h2">单元格</view>
+  </view>
+</view>

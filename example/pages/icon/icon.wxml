@@ -1,0 +1,14 @@
+<view class="container">
+  <view class="title">
+    <view class="h1">ICON</view>
+    <view class="h2">图标</view>
+  </view>
+  <view class="icon-box">
+  <block wx:for="{{icons}}" wx:key="icon">
+    <view class="icon">
+      <view class="icon_img t-icon-{{item}}"></view>
+      <view class="icon_name">{{item}}</view>
+    </view>
+  </block>
+  </view>
+</view>

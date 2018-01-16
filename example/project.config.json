@@ -27,7 +27,20 @@
 		},
 		"miniprogram": {
 			"current": -1,
-			"list": []
+			"list": [
+				{
+					"id": -1,
+					"name": "icon",
+					"pathName": "pages/icon/icon",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "flex",
+					"pathName": "pages/flex/flex",
+					"query": ""
+				}
+			]
 		}
 	}
 }
