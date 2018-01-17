@@ -4,13 +4,22 @@ export default {
     content: [
       {
         name: 'Icon 图标',
-        path: '/pages/icon/icon'
+        path: '/pages/icon/index'
       }, {
         name: 'Cell 单元格',
-        path: '/pages/cell/cell'
+        path: '/pages/cell/index'
       }, {
         name: 'Flex 布局',
-        path: '/pages/flex/flex'
+        path: '/pages/flex/index'
+      }, {
+        name: 'Algin 排列',
+        path: '/pages/align/index'
+      }, {
+        name: 'Panel 面板',
+        path: '/pages/panel/index'
+      }, {
+        name: 'Form 表单',
+        path: '/pages/form/index'
       }
     ]
   }

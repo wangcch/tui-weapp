@@ -1,9 +1,12 @@
 {
   "pages":[
     "pages/index/index",
-    "pages/icon/icon",
-    "pages/flex/flex",
-    "pages/cell/cell"
+    "pages/icon/index",
+    "pages/flex/index",
+    "pages/cell/index",
+    "pages/align/index",
+    "pages/panel/index",
+    "pages/form/index"
   ],
   "window":{
     "backgroundTextStyle":"light",

@@ -1,0 +1,128 @@
+<view class="container">
+  <view class="title">
+    <view class="h1">CELL</view>
+    <view class="h2">单元格</view>
+  </view>
+
+  <view class="t-cell">
+    <view class="t-cell_title">单行列表标题</view>
+    <view class="t-cell_content" hover-class="t-cell_hover">
+      <view class="t-cell_name">单行列表</view>
+      <view class="t_cell_more">
+        <view class="t-icon-more"></view>
+      </view>
+    </view>
+  </view>
+  <view class="t-cell t-cell-line">
+    <view class="t-cell_content">
+      <view class="t-cell_name">上下边框</view>
+      <view class="t_cell_more">
+        <view class="t-icon_more"></view>
+      </view>
+    </view>
+  </view>
+  <view class="t-cell">
+    <view class="t-cell_content">
+      <view class="t-cell_name">单行列表</view>
+      <view class="t_cell_more">详细信息</view>
+    </view>
+  </view>
+  <view class="t-cell">
+    <view class="t-cell_content">
+      <view class="t-cell_name">单行列表<view class="t-cell_name_remark">备注信息</view></view>
+      <view class="t_cell_more">详细信息</view>
+    </view>
+  </view>
+  <view class="t-cell">
+    <view class="t-cell_content" hover-class="t-cell_hover">
+      <view class="t-cell_name">单行列表</view>
+      <view class="t_cell_more">详细信息<view class="t-cell_icon t-icon-more"></view></view>
+    </view>
+  </view>
+  <view class="t-cell">
+    <view class="t-cell_content">
+      <view class="t-cell_name"><view class="t-cell_icon t-icon-link"></view>单行列表</view>
+      <view class="t_cell_more"></view>
+    </view>
+  </view>
+  <view class="t-cell">
+    <label>
+      <view class="t-cell_content">
+        <view class="t-cell_name"><checkbox/>单行列表</view>
+        <view class="t_cell_more"></view>
+      </view>
+    </label>
+  </view>
+  <view class="t-cell">
+    <view class="t-cell_content">
+      <view class="t-cell_name">单行列表</view>
+      <view class="t_cell_more">
+        <switch />
+      </view>
+    </view>
+  </view>
+  <view class="t-cell">
+    <view class="t-cell_content">
+      <view class="t-cell_name">单行列表</view>
+      <view class="t_cell_more">
+        <button size="mini">按钮</button>
+      </view>
+    </view>
+  </view>
+  <view class="t-cell">
+    <view class="t-cell_content" hover-class="t-cell_hover">
+      <view class="t-cell_name">列表禁用</view>
+      <view class="t_cell_more">
+        <view class="t-icon-more"></view>
+      </view>
+    </view>
+    <view class="t-cell_disabled"></view>
+  </view>
+
+  <view class="t-cell">
+    <view class="t-cell_title">多行列表标题</view>
+    <view class="t-cell_content" hover-class="t-cell_hover">
+      <view class="t-cell_name">多行列表</view>
+      <view class="t_cell_more">
+        <view class="t-icon-more"></view>
+      </view>
+    </view>
+    <view class="t-cell_content" hover-class="t-cell_hover">
+      <view class="t-cell_name">多行列表</view>
+      <view class="t_cell_more">
+        <view class="t-icon-more"></view>
+      </view>
+    </view>
+  </view>
+  <view class="t-cell">
+    <view class="t-cell_content" hover-class="t-cell_hover">
+      <view class="t-cell_name">列表禁用</view>
+      <view class="t_cell_more">
+        <view class="t-icon-more"></view>
+      </view>
+    </view>
+    <view class="t-cell_disabled"></view>
+    <view class="t-cell_content" hover-class="t-cell_hover">
+      <view class="t-cell_name">多行列表</view>
+      <view class="t_cell_more">
+        <view class="t-icon-more"></view>
+      </view>
+    </view>
+
+  </view>
+  <view class="t-cell t-cell-line">
+    <view class="t-cell_content" hover-class="t-cell_hover">
+      <view class="t-cell_name">多行列表<view class="t-cell_name_remark">带边框</view></view>
+      <view class="t_cell_more">
+        <view class="t-icon-more"></view>
+      </view>
+    </view>
+    <view class="t-cell_content" hover-class="t-cell_hover">
+      <view class="t-cell_name">多行列表<view class="t-cell_name_remark">带边框</view></view>
+      <view class="t_cell_more">
+        <view class="t-icon-more"></view>
+      </view>
+    </view>
+  </view>
+
+</view>

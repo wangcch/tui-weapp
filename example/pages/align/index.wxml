@@ -1,0 +1,44 @@
+<view class="container">
+  <view class="title">
+    <view class="h1">ALIGN</view>
+    <view class="h2">排列</view>
+  </view>
+  
+  <view class="box t-align_fl">
+    <view class="item">T1</view>
+    <view class="item">T2</view>
+    <view class="item">T3</view>
+  </view>
+
+  <view class="box t-align_fc">
+    <view class="item">T1</view>
+    <view class="item">T2</view>
+    <view class="item">T3</view>
+  </view>
+
+  <view class="box t-align_fr">
+    <view class="item">T1</view>
+    <view class="item">T2</view>
+    <view class="item">T3</view>
+  </view>
+
+  <view class="box t-align_fl_c">
+    <view class="item">T1</view>
+    <view class="item">T2</view>
+    <view class="item">T3</view>
+  </view>
+
+  <view class="box t-align_fc_c">
+    <view class="item">T1</view>
+    <view class="item">T2</view>
+    <view class="item">T3</view>
+  </view>
+
+  <view class="box t-align_fr_c">
+    <view class="item">T1</view>
+    <view class="item">T2</view>
+    <view class="item">T3</view>
+  </view>
+
+
+</view>

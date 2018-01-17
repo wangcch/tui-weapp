@@ -39,6 +39,24 @@
 					"name": "flex",
 					"pathName": "pages/flex/flex",
 					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "cell",
+					"pathName": "pages/cell/cell",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "align",
+					"pathName": "pages/align/align",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "panel",
+					"pathName": "pages/panel/index",
+					"query": ""
 				}
 			]
 		}

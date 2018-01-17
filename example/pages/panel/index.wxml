@@ -1,0 +1,30 @@
+<view class="container">
+  <view class="title">
+    <view class="h1">PANEL</view>
+    <view class="h2">面板</view>
+  </view>
+
+  <view class="t-panel">面板</view>
+
+  <view class="t-panel t-panel-line">面板 带边框</view>
+
+  <view class="t-panel t-panel--no-padding">面板 没有内距</view>
+
+  <view class="t-panel t-panel--no-margintop t-panel-line">面板 上外距为0</view>
+
+  <view class="t-panel_title">标题</view>
+  <view class="t-panel">面板 带标题</view>
+
+  <view class="t-panel t-panel--margin">面板 左右外边距</view>
+
+  <view class="t-panel">
+    <view class="t-panel_title">内标题</view>
+    面板
+  </view>
+
+  <view class="t-panel t-panel--margin">
+    <view class="t-panel_title">内标题</view>
+    面板 左右外边距
+  </view>
+
+</view>
