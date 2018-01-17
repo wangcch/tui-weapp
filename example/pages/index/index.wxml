@@ -1,6 +1,10 @@
 <view class="container">
-  <view class="logo">
-    TUI
+  <view class="logo t-align_fc">
+    <image src="/img/TUI.png"></image>
+    <view class="t-flex-c t-align_fl_c" style="margin-left: 15px;">
+      <view class="t-flex_item name">TUI</view>
+      <view class="t-flex_item form">THEYEAR DESIGN</view>
+    </view>
   </view>
 
   <block wx:for="{{list}}" wx:key="title" wx:for-item="panpel">
