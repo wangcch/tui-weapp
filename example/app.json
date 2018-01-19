@@ -6,7 +6,8 @@
     "pages/cell/index",
     "pages/align/index",
     "pages/panel/index",
-    "pages/form/index"
+    "pages/form/index",
+    "pages/button/index"
   ],
   "window":{
     "backgroundTextStyle":"light",

@@ -30,32 +30,8 @@
 			"list": [
 				{
 					"id": -1,
-					"name": "icon",
-					"pathName": "pages/icon/icon",
-					"query": ""
-				},
-				{
-					"id": -1,
-					"name": "flex",
-					"pathName": "pages/flex/flex",
-					"query": ""
-				},
-				{
-					"id": -1,
-					"name": "cell",
-					"pathName": "pages/cell/cell",
-					"query": ""
-				},
-				{
-					"id": -1,
-					"name": "align",
-					"pathName": "pages/align/align",
-					"query": ""
-				},
-				{
-					"id": -1,
-					"name": "panel",
-					"pathName": "pages/panel/index",
+					"name": "button",
+					"pathName": "pages/button/index",
 					"query": ""
 				}
 			]

@@ -9,6 +9,7 @@
 .title .h1 {
   font-size: 26px;
   color: #666;
+  text-transform: uppercase;
 }
 
 .title .h2 {

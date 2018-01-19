@@ -1,6 +1,6 @@
 export default {
   base: {
-    title: '基础组件',
+    title: '基础',
     content: [
       {
         name: 'Icon 图标',
@@ -18,6 +18,15 @@ export default {
         name: 'Panel 面板',
         path: '/pages/panel/index'
       }, {
+        name: 'Button 按钮',
+        path: '/pages/button/index'
+      }
+    ]
+  },
+  template: {
+    title: '模板',
+    content: [
+      {
         name: 'Form 表单',
         path: '/pages/form/index'
       }

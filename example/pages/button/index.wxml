@@ -1,0 +1,26 @@
+<view class="container">
+  <view class="title">
+    <view class="h1">button</view>
+    <view class="h2">按钮</view>
+  </view>
+
+  <view class="t-panel">
+    <view class="t-panel_title">default</view>
+    <button class="t-btn">default</button>
+    <button class="t-btn t-btn-primary">primary</button>
+    <button class="t-btn t-btn-warn">warn</button>
+  </view>
+  <view class="t-panel">
+    <view class="t-panel_title">noLine</view>
+    <button class="t-btn t-btn-noLine">default</button>
+    <button class="t-btn t-btn-primary t-btn-noLine">primary</button>
+    <button class="t-btn t-btn-warn t-btn-noLine">warn</button>
+  </view>
+  <view class="t-panel">
+    <view class="t-panel_title">gradient</view>
+    <button class="t-btn t-btn-gradient">default</button>
+    <button class="t-btn t-btn-primary t-btn-gradient-p">primary</button>
+    <button class="t-btn t-btn-warn t-btn-gradient-w">warn</button>
+  </view>
+
+</view>

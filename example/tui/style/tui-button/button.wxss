@@ -1,0 +1,41 @@
+.t-btn{
+  border-radius: 3px;
+  margin-bottom: 10px;
+}
+
+.t-btn::after {
+  border-radius: 3px;
+}
+
+.t-btn.t-btn-primary {
+  color: #ffffff;
+  background: #06BF04;
+}
+
+.t-btn.t-btn-warn {
+  color: #ffffff;
+  background: #E64340;
+}
+
+.t-btn.t-btn-noLine{
+  border-radius: 0;
+}
+
+.t-btn-noLine::after {
+  display: none;
+}
+
+.t-btn.t-btn-gradient {
+  background: linear-gradient(to top right, #e5e5e5, #ffffff);
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.t-btn.t-btn-gradient-p {
+  background: linear-gradient(to top right, #1aad19, #50d64f);
+  box-shadow: 0 2px 10px rgba(26, 173, 25, 0.3);
+}
+
+.t-btn.t-btn-gradient-w {
+  background: linear-gradient(to top right, #ec3f3d, #fe7157);
+  box-shadow: 0 2px 10px rgba(237, 65, 63, 0.6);
+}
