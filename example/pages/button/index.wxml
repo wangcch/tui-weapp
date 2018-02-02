@@ -22,5 +22,39 @@
     <button class="t-btn t-btn-primary t-btn-gradient-p">primary</button>
     <button class="t-btn t-btn-warn t-btn-gradient-w">warn</button>
   </view>
+  <view class="t-panel">
+    <view class="t-panel_title">samll</view>
+    <button class="t-btn t-btn-samll">default</button>
+    <button class="t-btn t-btn-primary t-btn-samll">primary</button>
+    <button class="t-btn t-btn-warn t-btn-samll">warn</button>
+    <view class="t-panel_title"></view>
+    <button class="t-btn t-btn-samll t-btn-noLine">default</button>
+    <button class="t-btn t-btn-primary t-btn-samll t-btn-noLine">primary</button>
+    <button class="t-btn t-btn-warn t-btn-samll t-btn-noLine">warn</button>
+    <view class="t-panel_title"></view>
+    <button class="t-btn t-btn-samll t-btn-gradient">default</button>
+    <button class="t-btn t-btn-primary t-btn-samll t-btn-gradient-p">primary</button>
+    <button class="t-btn t-btn-warn t-btn-samll t-btn-gradient-w">warn</button>
+  </view>
+  <view class="t-panel">
+    <view class="t-panel_title">mini</view>
+    <button class="t-btn t-btn-mini">default</button>
+    <button class="t-btn t-btn-primary t-btn-mini">primary</button>
+    <button class="t-btn t-btn-warn t-btn-mini">warn</button>
+    <view class="t-panel_title"></view>
+    <button class="t-btn t-btn-mini t-btn-noLine">default</button>
+    <button class="t-btn t-btn-primary t-btn-mini t-btn-noLine">primary</button>
+    <button class="t-btn t-btn-warn t-btn-mini t-btn-noLine">warn</button>
+    <view class="t-panel_title"></view>
+    <button class="t-btn t-btn-mini t-btn-gradient">default</button>
+    <button class="t-btn t-btn-primary t-btn-mini t-btn-gradient-p">primary</button>
+    <button class="t-btn t-btn-warn t-btn-mini t-btn-gradient-w">warn</button>
+  </view>
+  <view class="t-panel">
+    <view class="t-panel_title">disabled</view>
+    <button class="t-btn" disabled="true">default</button>
+    <button class="t-btn t-btn-primary" disabled="true">primary</button>
+    <button class="t-btn t-btn-warn" disabled="true">warn</button>
+  </view>
 
 </view>
