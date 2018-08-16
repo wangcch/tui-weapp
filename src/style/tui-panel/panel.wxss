@@ -1,0 +1,47 @@
+.t-panel {
+  margin-top: 15px;
+  padding: 15px;
+  background: #ffffff;
+  position: relative;
+}
+
+.t-panel-line {
+  border-width: 1px 0;
+  border-style: solid;
+  border-color: #e8e8e8;
+}
+
+.t-panel--no-padding {
+  padding: 0;
+}
+
+.t-panel--no-margintop {
+  margin-top: 0;
+}
+
+.t-panel--margin {
+  margin: 15px 15px 0 15px;
+}
+
+.t-panel_title {
+  padding: 20px 15px 0 15px;
+  margin-bottom: -10px;
+  color: #666666;
+}
+
+.t-panel .t-panel_title {
+  padding: 0 0 10px 0;
+  margin-bottom: 10px;
+  position: relative;
+}
+
+.t-panel .t-panel_title:after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 1px;
+  border-bottom: 1px solid #e8e8e8;
+
+}

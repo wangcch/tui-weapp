@@ -1,0 +1,12 @@
+.t-flex {
+  display: flex;
+}
+
+.t-flex-c {
+  display: flex;
+  flex-direction: column;
+}
+
+.t-flex_item {
+  flex: 1;
+}
