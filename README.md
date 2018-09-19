@@ -63,6 +63,6 @@ resource from [IconMoon - Free](https://icomoon.io/app/#/select)
 | <code>t-cell_more</code>        | /t-cell/t-cell_content                                                   | 单个列表右后缀                     |
 | <code>t-cell_icon</code>        | /t-cell/t-cell_content/t-cell_name OR /t-cell/t-cell_content/t-cell_more | 单个列表 icon 应用且与文字同时出现 |
 | <code>t-cell_line</code>        | /                                                                        | 列表外部边框，默认无               |
-| <code>t-cell_disabled</code>    |                                                                          |                                    |
+| <code>t-cell_disabled</code>    | /t-cell                                                                  | 单个列表 disabled 禁用             |
 
 ## Template
